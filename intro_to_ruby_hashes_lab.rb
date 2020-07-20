@@ -1,7 +1,7 @@
 def base_hash
   #base_hash = { :railroads => []}
   
-  
+  railroad: {}
 end 
 
   # Remember implicit return! We're returning this new Hash _without_ the
