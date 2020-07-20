@@ -2,6 +2,7 @@ def base_hash
   #base_hash = { :railroads => []}
   
   {railroads: {}
+  
   }
 end 
 
